@@ -17,7 +17,11 @@
   "author": "abit gurung",
   "license": "MIT",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "concurrently": "^5.3.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "nodemon": "^2.0.6"
   }
 }
